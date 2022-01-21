@@ -1,1 +1,2 @@
-# java-web-programming
+# Study Java
+- *《자바 웹을 다루는 기술》* (이병승 저, 도서출판 길벗)을 읽고 실습한 내용을 기록합니다.
